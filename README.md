@@ -100,10 +100,10 @@ We will change the demo introduced in TinyMCE to Froala.
 #### Basic Example
 This example contains the plugins needed for the most common use cases.
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/YydQrY)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/OaOjBL) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/ebLowmk5)
 
 ##### Screen shot
@@ -112,10 +112,10 @@ Froala Example
 #### Distraction-free Editor
 TinyMCE Distraction-free editor option can be used in Froala.
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/xzoELd)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/PxEQZY) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/3zn0qgrm)
 
 ##### Screen shot
@@ -124,10 +124,10 @@ Froala Example
 #### Inline Editor
 Same as TinyMCE You can use the inline editing function.
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/bKPBjg)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/Oazvbg) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/6r32dxbf)
 
 ##### Screen shot
@@ -136,10 +136,10 @@ Froala Example
 #### Custom Formats
 In Froala, you can use Custom Formats with three functions [Inline Classes](https://www.froala.com/wysiwyg-editor/examples/inline-classes), [Inline Styles](https://www.froala.com/wysiwyg-editor/examples/inline-styles), and [Paragraph Styles](https://www.froala.com/wysiwyg-editor/examples/paragraph-styles).
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/QjzgRW)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/PxaYXV) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/L2ozb8qd)
 
 ##### Screen shot
@@ -147,10 +147,10 @@ Froala Example
 
 #### Custom Toolbar Button
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/wKReOb)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/OazZjr) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/jq6u2vef)
 
 ##### Screen shot
@@ -158,10 +158,10 @@ Froala Example
 
 #### Custom Toolbar Listbox
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/JYwJVr)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/dQKbGW) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/vjpfd31b)
 
 ##### Screen shot
@@ -171,10 +171,10 @@ Froala Example
 
 Froala offers rich inline tools for image editing.
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/epbRwB)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/MzXWep) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/9aLr7kcz)
 
 ##### Screen shot
@@ -183,10 +183,10 @@ Froala Example
 #### Local Upload
 Froala provides an intuitive UI for uploading local images to the server.
 
-TinyMCE Example
+TinyMCE Example  
 [Live example](https://codepen.io/tinymce/pen/xLPoeV)
 
-Froala Example
+Froala Example  
 [Live example (Codepen)](https://codepen.io/romanesque/pen/KredzM) [Live example (JSfiddle)](https://jsfiddle.net/romanesque_io/hxjpmsve)
 
 ##### Screen shot
@@ -230,7 +230,7 @@ $('textarea').froalaEditor({
 });
 ```
 
-**Note:** By default, all plugins are enabled without using the pluginsEnabled option. 
+**Note:** By default, all plugins are enabled without using the pluginsEnabled option.  
 **Note:** Each plugin requires you to include the corresponding JS and CSS files. Here is the [complete list of plugins](https://www.froala.com/wysiwyg-editor/docs/plugins) and the files required by them.
 
 
